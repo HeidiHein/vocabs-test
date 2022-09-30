@@ -124,7 +124,7 @@ wtr:r2.9 a skos:Concept ;          # Betriebsführer
     skos:prefLabel      "Betriebsführer"@de ;
     skos:broader        wtr:r2 .
 
-wtr:r2.10 a skos:Concept ;         # betriebsfremde Person
+wtr:r2.10 a skos:Concept ;         # Betriebsfremde Person
     skos:inScheme       wtr:scheme ;
     skos:notation       "r2.10" ;
     skos:prefLabel      "betriebsfremde Person"@de ;
